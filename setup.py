@@ -64,7 +64,7 @@ setup(
         "six>=1.15.0",
         "yarl>=1.6.1",
         "python-json-logger>=2.0.1",
-        "nest-asyncio==1.5.1",
+        "nest-asyncio>=1.5.1",
         "prometheus-client==0.9.0",
         "nats-python>=0.8.0",
         "ujson==5.4.0",
